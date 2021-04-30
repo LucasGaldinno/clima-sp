@@ -11,6 +11,6 @@ Versão: 1.55.2
 <h2>Extensões:</h2>
 HTML5</br>
 JavaScript</br>
-CSS
+CSS</br>
 
 ![temp!](https://raw.githubusercontent.com/LucasGaldinno/clima-sp/main/Screenshots/2.png)
