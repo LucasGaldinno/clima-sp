@@ -3,13 +3,12 @@ Essa projeto foi desenvolvido para medir a temperatura do estado de São Paulo.
 
 ![temp!](https://raw.githubusercontent.com/LucasGaldinno/clima-sp/main/Screenshots/1.png)
 
-##Ferramentas utilizadas para o desenvolvimento desse projeto
+<h2>Ferramentas utilizadas para o desenvolvimento desse projeto</h2>
 
 <a href="https://code.visualstudio.com/download">Visual Studio Code</a><br>
 Versão: 1.55.2
 
-#Extensões:
-
-HTML5
-JavaScript
+<h2>Extensões:</h2>
+HTML5</br>
+JavaScript</br>
 CSS
