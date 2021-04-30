@@ -1,0 +1,16 @@
+body{
+  background: transparent url('logo.png');
+}
+
+#card{
+  width: 180px;
+  height: 180px;
+}
+
+h1{
+  color: #fff
+}
+
+h3{
+  color: #fff
+}
