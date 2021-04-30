@@ -5,5 +5,11 @@ Essa projeto foi desenvolvido para medir a temperatura do estado de São Paulo.
 
 #Ferramentas utilizadas para o desenvolvimento desse projeto
 
-<a href="https://code.visualstudio.com/download">Visual Studio Code</a>
+<a href="https://code.visualstudio.com/download">Visual Studio Code</a><br>
 Versão: 1.55.2
+
+#Extensões:
+
+HTML5
+JavaScript
+CSS
