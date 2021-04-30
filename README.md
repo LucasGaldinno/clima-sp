@@ -12,3 +12,5 @@ Versão: 1.55.2
 HTML5</br>
 JavaScript</br>
 CSS
+
+![temp!](https://raw.githubusercontent.com/LucasGaldinno/clima-sp/main/Screenshots/2.png)
