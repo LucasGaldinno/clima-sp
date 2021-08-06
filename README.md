@@ -8,7 +8,7 @@ Ferramenta utilizada para desenvolver o projeto :toolbox:
 </h2>
 Este projeto foi desenvolvido com o Visual Studio Code<br>
 Versão: 1.55.2
-<a href="https://code.visualstudio.com/download">Visual Studio Code</a><br>
+<a href="https://code.visualstudio.com/download">Download</a><br>
 
 
 <h2 align="center">
