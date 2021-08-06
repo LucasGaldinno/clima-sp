@@ -1,5 +1,5 @@
 <h1>Medidor de temperatura em tempo real :sun_behind_small_cloud:</h1>
-Essa projeto foi desenvolvido para medir a temperatura do estado de São Paulo.Extensão do chrome medidor de temperatura em tempo real <br><br>
+Essa projeto foi desenvolvido para medir a temperatura do estado de São Paulo. Extensão do chrome medidor de temperatura em tempo real <br><br>
 
 ![temp!](https://raw.githubusercontent.com/LucasGaldinno/clima-sp/main/Screenshots/1.png)
 
