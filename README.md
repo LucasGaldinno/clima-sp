@@ -1,4 +1,4 @@
-<h1>Extensão medidor de temperatura:sun_behind_small_cloud:</h1>
+<h1>Extensão, medidor de temperatura:sun_behind_small_cloud:</h1>
 Essa projeto foi desenvolvido para medir a temperatura do estado de São Paulo, é um projeto que utiliza API. Site que foi retirado a API <br><a href="https://openweathermap.org/">openweathermap</a><br><br>
 
 ![temp!](https://raw.githubusercontent.com/LucasGaldinno/clima-sp/main/Screenshots/1.png)
